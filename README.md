@@ -20,4 +20,4 @@ This project is a classic Snake game implemented in C++ using the OpenGL library
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone <https://github.com/AHMED9937/SnakeGame.git>
